@@ -4,6 +4,9 @@
 The key elements of a Tic Tac Toe game include:
 
 Game Board: A 3x3 grid where players place their marks (X or O).
+
 Players: Two players, usually represented by X and O.
+
 Game Logic: Rules to check for valid moves, win conditions, and draw conditions.
+
 Gameplay Loop: A loop that alternates between players until the game ends.
