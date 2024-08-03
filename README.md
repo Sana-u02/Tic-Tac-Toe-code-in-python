@@ -12,8 +12,4 @@
 
 **Gameplay Loop:** A loop that alternates between players until the game ends.
 
-🟢❌🔵
-❌🔵🟢
-🔵🟢❌
 
-Linkden : linkedin.com/in/sana-usman-9b39a2297
